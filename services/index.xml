@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on SongView</title>
-    <link>https://ztarma.github.io/services/</link>
+    <link>/services/</link>
     <description>Recent content in Services on SongView</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://ztarma.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>备件服务</title>
-      <link>https://ztarma.github.io/services/spare-parts/</link>
+      <link>/services/spare-parts/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>https://ztarma.github.io/services/spare-parts/</guid>
+      <guid>/services/spare-parts/</guid>
       <description>有些时候，您可能得在节省时间和节省金钱之间做出取捨，您将选择哪一个？对，您心中在想：「我两个都想省下来！」我们的专业支援团队可以帮助您。
  我们提供的服务  ● 为寻找缺损零件提供专业协助
 ● 原厂零件，确保品质及功能
@@ -24,10 +24,10 @@
     
     <item>
       <title>车间维修</title>
-      <link>https://ztarma.github.io/services/repair/</link>
+      <link>/services/repair/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>https://ztarma.github.io/services/repair/</guid>
+      <guid>/services/repair/</guid>
       <description>迅速且可靠的维修服务，而非昂贵的零件更换。归功于及时的维修，机器及生产可以持续运作。
  我们提供的服务  ● 焊接控制系統維修
 ● 出色的新零件维修品质，维修另附保固
@@ -40,10 +40,10 @@
     
     <item>
       <title>现场服务</title>
-      <link>https://ztarma.github.io/services/on-site/</link>
+      <link>/services/on-site/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://ztarma.github.io/services/on-site/</guid>
+      <guid>/services/on-site/</guid>
       <description>您需要现场协助？从调试期间，您就可利用预先排定的预防性维护作业，针对意料之外的问题提供迅速回应服务，并针对长时间维护及保养方面为您提供专业建议。
  我们提供的服务  ● 实地启用试验
 ● 利用预防性检测及维护服务，大幅提高设备的可靠性
@@ -52,10 +52,10 @@
     
     <item>
       <title>改造升级</title>
-      <link>https://ztarma.github.io/services/upgrade/</link>
+      <link>/services/upgrade/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://ztarma.github.io/services/upgrade/</guid>
+      <guid>/services/upgrade/</guid>
       <description>我们的专家可以透过改造解决方案，大幅提升产品线的使用寿命。同时，我们利用其他的现代化方法，让您的设备彷若新生。相较于购买全新系统，这样的作法将节省更多成本，而且无须置换原本的机器。
  我们提供的服务  ● 为焊接控制器升级总线功能（Profinet、Interbus、DeviceNet&amp;hellip;etc)
 ● 详细专业建议，囊括潜在升级评估服务
@@ -66,10 +66,10 @@
     
     <item>
       <title>数据采集</title>
-      <link>https://ztarma.github.io/services/data/</link>
+      <link>/services/data/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://ztarma.github.io/services/data/</guid>
+      <guid>/services/data/</guid>
       <description>通过读取焊接控制器数据库实现对焊接过程参数的监控
  我们提供的服务  ● 过程参数采集
 ● 焊接工艺参数评估
